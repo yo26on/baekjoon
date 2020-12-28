@@ -41,5 +41,6 @@ int main() {
         (ptr+i)->output();
     }
     
+    delete[] ptr;
     return 0;
 }
