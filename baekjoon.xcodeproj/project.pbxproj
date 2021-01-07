@@ -84,7 +84,7 @@
 		DDEAAA452599FB9C007CF218 = {
 			isa = PBXGroup;
 			children = (
-				DDEAAA502599FB9C007CF218 /* backjoon */,
+				DDEAAA502599FB9C007CF218 /* baekjoon */,
 				DDEAAA4F2599FB9C007CF218 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -97,7 +97,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DDEAAA502599FB9C007CF218 /* backjoon */ = {
+		DDEAAA502599FB9C007CF218 /* baekjoon */ = {
 			isa = PBXGroup;
 			children = (
 				DDEAAA512599FB9C007CF218 /* 10950.cpp */,
@@ -145,7 +145,7 @@
 				DD321F2D25A7093B003D3AD3 /* 9461.cpp */,
 				DD321F3125A710D0003D3AD3 /* 2225.cpp */,
 			);
-			path = backjoon;
+			path = baekjoon;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
